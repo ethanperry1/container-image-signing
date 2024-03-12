@@ -1,4 +1,4 @@
-# Open-Source Container Image Signing Demo
+# Container Image Signing Demo
 
 A supply chain attack is a cyber-attack which has been around for some time but has gained immense popularity in recent years. The attack leverages weaknesses in the security of the software supply chain, the chain of dependencies from which source code depends on for its functionality. The increase in popularity is in part due to the dramatic rise in automation surrounding CI/CD and the growth in popularity of open-source software. Supply chain attacks are frequently targeted at container images, where attackers attempt to subvert the integrity of software by inserting their own malicious code in place of genuine code, from where they are able to obtain secret credentials, steal computational power, or execute other potentially devastating code.
 
